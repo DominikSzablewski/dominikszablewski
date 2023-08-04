@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Dominik Szablewski, and I'm a frontend developer. On GitHub, I'll be sharing only my key projects to maintain a clean and organized profile that showcases the work I'm most proud of.
 <!--
 **DominikSzablewski/dominikszablewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
